@@ -10,6 +10,7 @@
 ## Once you've connected to the NJIT network
 
 1 ) In WebStorm go to the Tools section on the top left.
+
 ![](images/tools.PNG)
 
 2 ) From the tools menu, go to **"Start SSH Session"**.
