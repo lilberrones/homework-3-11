@@ -9,10 +9,22 @@
 
 ## Once you've connect to the NJIT network
 If you are on the NJIT network.
-1) In WebStorm go to the Tools section on the top left...
+
+1 ) In WebStorm go to the Tools section on the top left.
 ![](images/tools.PNG)
 
-2) From the tools menu, go to **"Start SSH Session"**.
+2 ) From the tools menu, go to **"Start SSH Session"**.
 
+![](images/tools1.png)
 
+3 ) Once you see the login sub menu, enter in the listed host address in the port number. From there login with your UCID.
 
+![](images/tools2.PNG)
+
+4 ) Enter in the highlighted text in yellow to change your directory to your public html folder.
+
+![](images/tools3.PNG)
+
+5 ) Once you're in your public directory, use the next command to see what is currently stored in public html.
+
+![](images/tools4.PNG)
