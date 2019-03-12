@@ -8,7 +8,6 @@
 - [x] Enter in your NJIT login credentials and you will be able to access the NJIT network 
 
 ## Once you've connected to the NJIT network
-If you are on the NJIT network.
 
 1 ) In WebStorm go to the Tools section on the top left.
 ![](images/tools.PNG)
