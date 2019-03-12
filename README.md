@@ -16,4 +16,6 @@
 - man: shows the manual for a particular command
 - chmod: changes the file permissions
 - chown: changes the ownership 
+- vi: initialize linux embedded text editor
 - exit: closes out of current session
+
