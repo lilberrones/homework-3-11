@@ -25,6 +25,6 @@ If you are on the NJIT network.
 
 ![](images/tools3.PNG)
 
-5 ) Once you're in your public directory, use the next command to see what is currently stored in public html.
+5 ) Once you're in your public directory, use the next highlighted command to see what is currently stored in your public html directory.
 
 ![](images/tools4.PNG)
