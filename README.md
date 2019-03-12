@@ -3,7 +3,7 @@
 ## How to access NJIT's AFS Directory from WebStorm
 **If you are NOT on the NJIT network. You must follow these steps or this process will not work.**
 - [x] Check your local internet settings to make sure you are NOT on NJITSecure.
-- [x] Visit https://ist.njit.edu/vpn/ and download Cisco AnyNet VPN for your particular OS.
+- [x] Visit https://ist.njit.edu/vpn/ and download Cisco AnyConnect VPN for your particular OS.
 - [x] Once the program has been installed, use vpn.njit.edu address to connect to the network.
 - [x] Enter in your NJIT login credentials and you will be able to access the NJIT network 
 
