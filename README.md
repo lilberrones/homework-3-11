@@ -1,7 +1,7 @@
 # Linux Commands
 
 - ls: directory listing
-- ls -a: formatted listing with various extensions
+- ls -a: formatted listing with all file and folder extensions 
 - cd: change current working directory
 - pwd: show current directory
 - mkdir: create a directory 
