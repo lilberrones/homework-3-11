@@ -16,6 +16,18 @@
 
 ![](images/tools1.png)
 
+3 ) Once you see the login sub menu, enter in the listed host address in the port number. From there login with your UCID.
+
+![](images/tools2.PNG)
+
+4 ) Enter in the highlighted text in yellow to change your directory to your public html folder.
+
+![](images/tools3.PNG)
+
+5 ) Once you're in your public directory, use the next highlighted command to see what is currently stored in your public html directory.
+
+![](images/tools4.PNG)
+
 # Linux Commands
 
 - ls: directory listing
