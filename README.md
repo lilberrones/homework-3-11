@@ -1,3 +1,4 @@
+# IS117 | Homework 3/11/19
 ## How to access NJIT's AFS Directory from WebStorm
 **If you are NOT on the NJIT network. You must follow these steps or this process will not work.**
 - [x] Check your local internet settings to make sure you are NOT on NJITSecure.
