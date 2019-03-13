@@ -1,4 +1,3 @@
-# How the Internet Works
 ## How to access NJIT's AFS Directory from WebStorm
 **If you are NOT on the NJIT network. You must follow these steps or this process will not work.**
 - [x] Check your local internet settings to make sure you are NOT on NJITSecure.
@@ -37,7 +36,7 @@
 - vi: initialize linux embedded text editor
 - exit: closes out of current session
 
-
+# How the Internet Works
 
 In order to access a web page, your modem/ router will send a request to a DNS server provided by your internet service provider.
  From there the DNS server will direct you to an online directory of places as to where the current IP address you are looking for. After the DNS server has reached the appropriate place, it will contact the web server of where you are looking towards, and redirect your traffic.
