@@ -4,7 +4,7 @@
 - [x] Check your local internet settings to make sure you are NOT on NJITSecure.
 - [x] Visit https://ist.njit.edu/vpn/ and download Cisco AnyConnect VPN for your particular OS.
 - [x] Once the program has been installed, use vpn.njit.edu address to connect to the network.
-- [x] Enter in your NJIT login credentials and you will be able to access the NJIT network 
+- [x] Upon entering the address, you will need to enter your NJIT login credentials to access the NJIT network 
 
 ## Once you've connected to the NJIT network
 
@@ -16,7 +16,7 @@
 
 ![](images/tools1.png)
 
-3 ) Once you see the login sub menu, enter in the listed host address in the port number. From there login with your UCID.
+3 ) Once you see the login sub menu, enter in the listed host address in the port number. From there log in with your UCID.
 
 ![](images/tools2.PNG)
 
