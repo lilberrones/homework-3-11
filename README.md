@@ -1,5 +1,9 @@
 # IS117 | Homework 3/11/19
 ## How to access NJIT's AFS Directory from WebStorm
+
+[*Link to the full written tutorial hosted on a separate Github repo*](https://github.com/joel1083/Homework4-4-19/blob/master/README.md)
+
+
 **If you are NOT on the NJIT network. You must follow these steps or this process will not work.**
 - [x] Check your local internet settings to make sure you are NOT on NJITSecure.
 - [x] Visit https://ist.njit.edu/vpn/ and download Cisco AnyConnect VPN for your particular OS.
