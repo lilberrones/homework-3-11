@@ -59,3 +59,17 @@
 In order to access a web page, your modem/ router will send a request to a DNS server provided by your internet service provider.
  From there the DNS server will direct you to an online directory of places as to where the current IP address you are looking for. After the DNS server has reached the appropriate place, it will contact the web server of where you are looking towards, and redirect your traffic.
  The web server will then send you a return packet of data, of which will is coming directly from a database, thus allowing you to see a displayed web page.
+
+# How HTTP Works
+
+<img src = "https://mdn.mozillademos.org/files/8659/web-server.png">
+
+- Browser sends request for a file via HTTP. The web server searches for file and then sends back a response to the browser with said file. 
+
+# How Static and Dynamic Sites Work
+
+<img src = "https://mdn.mozillademos.org/files/13841/Basic%20Static%20App%20Server.png">
+- Static: "Served as is" 
+
+<img src = "https://mdn.mozillademos.org/files/13839/Web%20Application%20with%20HTML%20and%20Steps.png">
+-Dynamic: Requires extra software to create and updates files before sending them to a browser. 
