@@ -1,8 +1,8 @@
-# Lilia B, Priyankitha P, Joel R
-# IS117 | Homework 3/11/19 - 4/8/19
-# Tutorials
+# IS117 | Lilia B, Priyankitha P, Joel R
+# Homework 3/11/19 - 4/8/19 | 3 Page Tutorials
 - [Link to Advanced Linux Tutorial](https://docs.google.com/document/d/1HqfuoZZUpkkfZfEORMPhy85m4lMg6fsXuKFUoKfzLug/edit?usp=sharing)
 - [Link to Advanced Tutorial on How the Internet Works](https://docs.google.com/document/d/1J2VclpqQwtyaQfhaAS1SwUPiFnyBSM6sOj-R_JMEkuI/edit?usp=sharing)
+
 ## How to access NJIT's AFS Directory from WebStorm
 
 **If you are NOT on the NJIT network. You must follow these steps or this process will not work.**
