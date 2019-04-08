@@ -1,8 +1,9 @@
-# IS117 | Homework 3/11/19
+# Lilia B, Priyankitha P, Joel R
+# IS117 | Homework 3/11/19 - 4/8/19
+#Tutorials
+- [Link to Advanced Linux Tutorial](https://docs.google.com/document/d/1HqfuoZZUpkkfZfEORMPhy85m4lMg6fsXuKFUoKfzLug/edit?usp=sharing)
+- [Link to Advanced Tutorial on How the Internet Works](https://docs.google.com/document/d/1J2VclpqQwtyaQfhaAS1SwUPiFnyBSM6sOj-R_JMEkuI/edit?usp=sharing)
 ## How to access NJIT's AFS Directory from WebStorm
-
-[*Link to the full written tutorial hosted on a separate Github repo*](https://github.com/joel1083/Homework4-4-19/blob/master/README.md)
-
 
 **If you are NOT on the NJIT network. You must follow these steps or this process will not work.**
 - [x] Check your local internet settings to make sure you are NOT on NJITSecure.
